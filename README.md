@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Sid0027
+- 👀 I’m interested in coding...
+- 🌱 I’m currently learning Web Development from Apna College...
+- 📫 You can reach me by mailing me at sdqsahil8@gmail.com ...
+
+<!---
+Sid0027/Sid0027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
